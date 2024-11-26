@@ -30,5 +30,6 @@ Tambièn curso la materia Programaciòn de computadores, en la cual estoy obteni
 - Lenguajes
 - Algoritmos
 
-#META:
-Manejar el lenguaje de python
+META:
+-
+Manejar el lenguaje de python de manera efectiva
